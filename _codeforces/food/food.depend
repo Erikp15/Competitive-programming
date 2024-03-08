@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683996933 source:c:\programs\codeforces\food\main.cpp
+	<bits/stdc++.h>
+	<random>
+

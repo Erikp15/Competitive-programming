@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567673170 source:c:\programs\posledna zadacha\main.cpp
+	<iostream>
+	<string.h>
+	<queue>
+

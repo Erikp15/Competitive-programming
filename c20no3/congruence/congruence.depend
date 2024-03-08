@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582052061 source:c:\programs\c20no2\congruence\main.cpp
+	<iostream>
+	<string>
+

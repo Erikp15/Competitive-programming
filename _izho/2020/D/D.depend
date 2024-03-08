@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1644941505 source:c:\programs\_izho\2020\d\main.cpp
+	"grader.h"
+	<bits/stdc++.h>
+
+1578702836 c:\programs\_izho\2020\d\grader.h
+	<string>
+	<utility>
+

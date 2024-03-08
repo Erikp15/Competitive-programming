@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676106397 source:c:\programs\find_closest_points\main.cpp
+	<bits/stdc++.h>
+
+1676109325 source:c:\programs\closest_points\find_closest_points\main.cpp
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+interactive problems
+hungarian algorithm
+chinese ferma theorem
+
+n*n matrix each square has value an integer choose n square such that no 2 square are on the same row or column and the sum is minimal.

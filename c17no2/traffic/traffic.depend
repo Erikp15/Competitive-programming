@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587387808 source:c:\programs\c17no2\traffic\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

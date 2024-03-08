@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1599583437 source:c:\programs\b18no1\points\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<cstdio>
+	<utility>
+	<algorithm>
+

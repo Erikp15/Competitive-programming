@@ -1,0 +1,28 @@
+n := 8;
+m := 13;
+
+def f(const x : uint[n]) qfree : 𝔹{
+    return x*x == 121 && x < 100;
+}
+
+def main(){
+    x := 0 : uint[n];
+    for i in [0..n){
+        x[i] := H(x[i]);
+    }
+    for i in [0..m){
+        if f(x) {
+            phase(pi);
+        }
+        for j in [0..n){
+            x[j] := H(x[j]);
+        }
+        if x==0 {
+            phase(pi);
+        }
+        for j in [0..n){
+            x[j] := H(x[j]);
+        }        
+    }
+    return x;
+}

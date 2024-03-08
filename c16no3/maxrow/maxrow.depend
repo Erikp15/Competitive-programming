@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585067837 source:c:\programs\c16no3\maxrow\main.cpp
+	<iostream>
+	<string>
+

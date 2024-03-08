@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608120543 source:c:\programs\a18no1\altgame\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+

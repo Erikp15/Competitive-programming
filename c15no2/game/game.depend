@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582667891 source:c:\programs\c15no2\game\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636452299 source:c:\programs\b20set\game\main.cpp
+	<bits/stdc++.h>
+	<chrono>
+

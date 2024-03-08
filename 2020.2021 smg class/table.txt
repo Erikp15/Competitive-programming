@@ -1,0 +1,11 @@
+2 players 3:length 1:EET 2:TET probobility of the sequences shoing up first
+n players k:length same problem
+n<=100
+how many ways can you get from everyone to everyone with length k<10^18
+markov systems
+prims algorithm
+union find
+minimum spaning tree
+std::ios::sync_with_stdio(false);
+std::cin.tie(nullptr);
+std::cout.tie(nullptr);

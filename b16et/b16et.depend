@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627907796 source:c:\programs\b16et\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<vector>
+	<queue>
+	<cstring>
+
