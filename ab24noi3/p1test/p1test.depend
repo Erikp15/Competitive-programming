@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710353192 source:c:\programming\_competitive_programming\ab24noi3\p1test\main.cpp
+	<iostream>
+	<algorithm>
+	<numeric>
+	<vector>
+	<cmath>
+	<random>
+	<cassert>
+	<unordered_map>
+
